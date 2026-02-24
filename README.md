@@ -1,79 +1,102 @@
-<!-- README.md -->
+<!-- ========================================= -->
+<!--         Sou Long | Animated Profile       -->
+<!-- ========================================= -->
 
-<div align="center">
-  <h1>💫 Hi, I'm Sean Soulong</h1>
-  <p>Fourth-year <strong>Information Technology Engineering</strong> student | Web & Mobile Developer | Passionate about clean code & problem solving</p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Sou%20Long&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<h2 align="center">🚀 Software Developer | IT Engineering Student</h2>
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://facebook.com/sean.soulong" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-  <a href="https://instagram.com/sean.soulong/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-  <a href="https://linkedin.com/in/sean-soulong-2607a5370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-  <a href="https://x.com/Thesou168" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-  <a href="https://youtube.com/@souLong-go5fg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-  <a href="mailto:longsou1225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="margin: 5px; transition: transform 0.3s;" />
-  </a>
-</div>
-
-<style>
-  img:hover {
-    transform: scale(1.15);
-  }
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8E2DE2&center=true&vCenter=true&width=800&lines=Fourth-Year+IT+Engineering+Student;Full-Stack+Web+%26+Mobile+Developer;Clean+Code+Enthusiast;System+Design+Learner;Always+Learning+Always+Improving" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-<div align="center">
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
+# 💫 About Me
+
+I am a **fourth-year Information Technology Engineering student** with strong experience in **software development and system design**.
+
+Throughout my academic journey, I have worked on various projects involving:
+
+- 🌐 Web Application Development  
+- 📱 Mobile Application Development  
+- 🗄️ Database Integration  
+- ⚙️ Backend & API Development  
+
+I am passionate about writing **clean, efficient, and maintainable code**.  
+I continuously improve my **technical skills, system thinking, and problem-solving ability**.
+
+🎯 Currently seeking opportunities to apply my knowledge in real-world environments and grow as a professional developer.
 
 ---
 
-### ✍️ Dev Quote
-<div align="center">
-  <p style="font-style: italic; font-size: 18px;">"Status 200 — Mission Complete!" 🚀</p>
-</div>
+## 🌟 What Defines Me
+
+- Strong foundation in programming fundamentals  
+- Fast learner & adaptable to new technologies  
+- Detail-oriented and structured in system design  
+- Focused on performance, scalability, and clean architecture  
+- Collaborative mindset with good communication skills  
 
 ---
 
-### 💡 Projects & Highlights
-- **Web Apps:** Dynamic dashboards, e-commerce websites, interactive UI/UX.
-- **Mobile Apps:** Android apps with Firebase, REST APIs, and local storage.
-- **System Design:** Database modeling, RESTful APIs, scalable architecture.
-- **Open Source:** Contributing and exploring GitHub projects.
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sean.soulong)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sean.soulong/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-soulong-2607a5370/)  
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/Thesou168)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@souLong-go5fg)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longsou1225@gmail.com)
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ and ☕</p>
-</div>
+# 💻 Tech Stack
+
+### 💡 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+### 🔥 Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### 🎨 Tools & Design
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thesou168&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thesou168&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+🚀 Status: Always Improving • Learning Never Stops
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
+</p>
