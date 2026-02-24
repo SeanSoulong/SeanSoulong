@@ -6,10 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,100:404040&height=200&section=header&text=Sou%20Long&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 FullStack Developer | IT Engineering Student</h2>
+<h2 align="center">🚀 Web Developer | IT Engineering Student</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8E2DE2&center=true&vCenter=true&width=800&lines=Fourth-Year+IT+Engineering+Student;Full-Stack+Web+%26+Mobile+Developer;Clean+Code+Enthusiast;System+Design+Learner;Always+Learning+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8E2DE2&center=true&vCenter=true&width=800&lines=Fourth-Year+IT+Engineering+Student;Fronend+Web+%26+Mobile+Developer;Clean+Code+Enthusiast;Always+Learning+Always+Improving" />
 </p>
 
 ---
