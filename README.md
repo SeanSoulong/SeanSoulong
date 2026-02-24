@@ -82,15 +82,6 @@ I continuously improve my **technical skills, system thinking, and problem-solvi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thesou168&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thesou168&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
