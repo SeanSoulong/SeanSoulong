@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Sou%20Long&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,100:404040&height=120&section=footer"/>
 </p>
 
 <h2 align="center">🚀 Software Developer | IT Engineering Student</h2>
@@ -89,5 +89,5 @@ I continuously improve my **technical skills, system thinking, and problem-solvi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,100:404040&height=120&section=footer"/>
 </p>
