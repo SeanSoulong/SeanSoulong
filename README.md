@@ -3,6 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
+    <h1>💫 Hi, I'm Sean Soulong</h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,100:404040&height=120&section=footer"/>
 </p>
 
